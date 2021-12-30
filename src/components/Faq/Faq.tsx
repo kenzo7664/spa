@@ -3,7 +3,7 @@ import data from './data';
 import SingleQuestion from './Question';
 import {FaqContainer, FaqSubHeading,FaqSubscription} from './Faq.elements'
 function Faq(){
-  const [questions,setQuestions] = useState(data)
+  const [questions] = useState(data)
   return <main>
     <FaqContainer>
       <FaqSubHeading>FAQ'S</FaqSubHeading>

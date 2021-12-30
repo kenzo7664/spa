@@ -1,23 +1,23 @@
 import styled from 'styled-components';
 
 type Custom ={
-  lightBg:any
+  lightBg:boolean
 }
 type norm={
-  imgStart:any
+  imgStart:boolean
 }
 type Start = {
-  start: any;
+  start: boolean;
 };
 type LightTopLine = {
-  lightTopLine: any;
+  lightTopLine: boolean;
 };
 type LightText = {
-  lightText: any;
+  lightText: boolean;
 };
 
 type LightTextDesc = {
-  lightTextDesc: any;
+  lightTextDesc: boolean;
 };
 export const InfoSec = styled.div<Custom>`
   color: #fff;

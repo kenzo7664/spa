@@ -15,8 +15,6 @@ import {
 function InfoSection({
   primary,
   lightBg,
-  topLine,
-  lightTopLine,
   lightText,
   lightTextDesc,
   headline,
