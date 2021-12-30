@@ -10,7 +10,7 @@ export const homeObjOne = {
     "Limited: 1,500 unique, fruity, algorithmically generated Bananas - stored with proof of ownership on the Solana blockchain",
   buttonLabel: "Get Started",
   imgStart: "",
-  img: "https://images.unsplash.com/photo-1640767514388-eef1b79eb036?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+  img: "https://solanamonkey.business/images/gen2.png",
   alt: "",
   start: "",
 };
